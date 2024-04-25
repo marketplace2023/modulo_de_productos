@@ -47,7 +47,7 @@ Formulario de detalles para añadir o modificar variantes, con campos para selec
 ## Gestión de Categorías de Producto (product.category)
 Vista de árbol para explorar las categorías de productos, permitiendo una navegación jerárquica.
 Formulario de detalles para crear o editar categorías, con opciones para definir un nombre, descripción, y categoría padre.
-Ajustes
+# Ajustes
 ## Configuración de Listas de Precios (product.pricelist)
 Vista de lista para las listas de precios, con columnas para nombre de la lista y tipo (por ejemplo, minorista, mayorista).
 Formulario para definir o editar listas de precios, con opciones para aplicar descuentos, incrementos, y condiciones específicas.
@@ -60,7 +60,7 @@ Formulario de detalles para añadir o editar marcas, incluyendo campos para el n
 ## Configuración de Unidades de Medida (product.uom)
 Vista de lista para unidades de medida, mostrando la descripción y categoría de la unidad.
 Formulario para crear o modificar unidades de medida, con campos para nombre, categoría, y factor de conversión.
-Reportes
+# Reportes
 ## Análisis de Ventas por Categoría (product.category)
 Vista de informe que ofrece análisis de ventas filtrado por categorías, mostrando volúmenes de ventas, ingresos generados, y comparativas de período.
 Opciones para filtrar por fecha, región, y otros parámetros relevantes.
